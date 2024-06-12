@@ -21,11 +21,11 @@
 You need to download the config below:
 - On debian based distribution:
   ```sh
-  bash <( curl -s https://tsh.vpws.eu/scripts/debian.sh )
+  bash <( curl -s https://tsh.vpws.eu/debian.sh )
   ```
 - On RHEL based distribution:
   ```sh
-  bash <( curl -s https://tsh.vpws.eu/scripts/rhel.sh )
+  bash <( curl -s https://tsh.vpws.eu/rhel.sh )
   ```
 
 Then run tmate
