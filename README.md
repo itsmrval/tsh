@@ -7,7 +7,7 @@
   <h3 align="center">TSH - tmate</h3>
 
   <p align="center">
-    Scripts to push VPWS tmate config
+    A bash script to push VPWS tmate config on Debian or RHEL server
     <br />
     <a href="https://github.com/itsmrval/tsh/issues">Report a bug</a>
     ·
