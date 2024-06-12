@@ -20,7 +20,7 @@ fi
 
 echo "[2/2] Downloading config file..."
 rm -rf ~/.tmate.conf 
-wget -qO ~/.tmate.conf https://raw.githubusercontent.com/itsmrval/tsh/main/.tmate.conf
+wget -qO ~/.tmate.conf https://raw.githubusercontent.com/itsmrval/tsh/main/config/.tmate.conf
 
 if [ -f ~/.tmate.conf ]; then
     echo "[OK] config installed"
