@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ $# -ne 1 ]; then
-    echo "Usage: $0 <fichier>"
+    echo "Usage: bash <( curl -s https://tsh.vpws.eu/paste.sh ) <fichier>"
     exit 1
 fi
 
