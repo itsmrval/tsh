@@ -37,5 +37,5 @@ Then run tmate
 
 If you need to upload config files on hastebin:
 ```sh
-  bash <( curl -s https://tsh.vpws.eu/paste.sh )
+bash <( curl -s https://tsh.vpws.eu/paste.sh )
 ```
